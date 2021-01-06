@@ -41,6 +41,9 @@
 		"react-table": "^7.6.2",
 		"styled-components": "^5.2.1"
 	},
+	"engines": {
+		"node": "12.19.0"
+	},
 	"browserslist": {
 		"production": [
 			">0.2%",
